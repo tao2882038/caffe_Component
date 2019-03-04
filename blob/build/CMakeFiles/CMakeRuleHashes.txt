@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+2a371bdeed1f3a8a37505be80b548fe1 CMakeFiles/cuda_compile.dir/src/caffe/util/./cuda_compile_generated_math_functions.cu.o
+e41f4f0ed21fea76cc3da1f7047336b8 include/caffe/proto/caffe.pb.cc
+7ec7c5163fddfd8d64078d2e88875bc5 include/proto/caffe.pb.cc

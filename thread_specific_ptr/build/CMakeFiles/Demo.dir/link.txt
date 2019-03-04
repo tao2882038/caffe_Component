@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG    CMakeFiles/Demo.dir/src/main.cpp.o CMakeFiles/Demo.dir/src/Caffe.cpp.o  -o Demo -rdynamic -lboost_system -lboost_thread -lboost_filesystem -lpthread -lpthread 

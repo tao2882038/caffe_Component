@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Caffe.hpp
+boost/thread.hpp
+-
+
+/home/taoran/桌面/caffe/thread_specific_ptr/src/Caffe.cpp
+Caffe.hpp
+/home/taoran/桌面/caffe/thread_specific_ptr/src/Caffe.hpp
+

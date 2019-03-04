@@ -1,0 +1,2 @@
+/home/taoran/桌面/caffe/Caffe/build/CMakeFiles/Demo.dir
+/home/taoran/桌面/caffe/Caffe/build/CMakeFiles/common.dir

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/taoran/C++/signal/action.h
+boost/function.hpp
+-
+
+/home/taoran/C++/signal/main.cpp
+iostream
+-
+action.h
+/home/taoran/C++/signal/action.h
+signal_handler.h
+/home/taoran/C++/signal/signal_handler.h
+
+/home/taoran/C++/signal/signal_handler.h
+action.h
+/home/taoran/C++/signal/action.h
+

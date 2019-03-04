@@ -1,0 +1,2 @@
+/usr/bin/ar cr lib/libcaffeproto.a  CMakeFiles/caffeproto.dir/include/caffe/proto/caffe.pb.cc.o
+/usr/bin/ranlib lib/libcaffeproto.a

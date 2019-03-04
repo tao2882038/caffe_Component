@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "cctype": "cpp",
+        "cmath": "cpp",
+        "csignal": "cpp",
+        "cstddef": "cpp",
+        "cstdio": "cpp",
+        "cstdlib": "cpp",
+        "cstring": "cpp",
+        "cwchar": "cpp",
+        "strstream": "cpp",
+        "iosfwd": "cpp",
+        "cinttypes": "cpp",
+        "cstdint": "cpp",
+        "typeindex": "cpp",
+        "cstdarg": "cpp",
+        "cwctype": "cpp"
+    }
+}

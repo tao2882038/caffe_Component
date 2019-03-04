@@ -1,0 +1,2 @@
+/home/taoran/桌面/caffe/blob/build/CMakeFiles/blob.dir
+/home/taoran/桌面/caffe/blob/build/CMakeFiles/caffeproto.dir
